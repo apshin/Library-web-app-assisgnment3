@@ -1,0 +1,40 @@
+.login-form {
+  background: linear-gradient(rgba(50, 27, 48, 0.8), rgba(160, 142, 158, 0.1)),url("../../images/loginpagebg.jpg") center center/cover no-repeat;
+  height: 100vh;
+  button {
+    margin-right: 10px;
+  }
+
+  .loginForm,
+  .signupForm {
+    padding: 1% 7%;
+  }
+
+  .form-heading {
+    color: orangered;
+  }
+}
+
+.loginpage-logo {
+  padding-top: 30px;
+  text-align: center;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+.back-to-login-btn {
+  position: absolute;
+  right: 35px;
+  top: 35px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .login-form {
+    background: linear-gradient(rgba(50, 27, 48, 0.8), rgba(160, 142, 158, 0.1)),url("../../images/loginpagebg.jpg") center center/100% no-repeat;
+  }
+}

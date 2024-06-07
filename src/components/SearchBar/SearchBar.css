@@ -1,0 +1,43 @@
+.search-form-elem{
+  position: relative;
+
+  input {
+    width: 170px;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+
+  button {
+    position: absolute;
+    top: 2px;
+    border: none;
+    background-color: transparent;
+    right: 0;
+  }
+
+  .search-clear-btn{
+    position: absolute;
+    top: 1px;
+    right: 0;
+  }
+}
+
+.search-form {
+  max-width: 350px;
+}
+
+.back-to-login-btn {
+  position: absolute;
+  right: 35px;
+  top: 35px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .search-form-elem{
+    input {
+      width: 350px;
+    }
+  }
+}

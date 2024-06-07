@@ -1,0 +1,199 @@
+2024-05-27T12:11:22.497Z [32minfo[39m: Server is running on port 5000
+2024-05-27T12:11:22.518Z [31merror[39m: Error connecting to the database: Unknown database 'your_database'
+2024-05-27T12:11:43.574Z [32minfo[39m: Server is running on port 5000
+2024-05-27T12:11:43.601Z [32minfo[39m: Connected to the database
+2024-05-27T12:13:08.615Z [31merror[39m: Error adding book: Unknown column 'description' in 'field list'
+2024-05-27T12:21:04.325Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-27T12:23:18.942Z [32minfo[39m: Book added successfully
+2024-05-28T09:19:20.136Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-28T09:19:31.858Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-28T09:19:32.929Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-28T09:19:33.306Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-28T09:20:47.382Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-28T09:21:34.092Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-28T09:22:01.732Z [32minfo[39m: Book added successfully
+2024-05-28T09:30:20.971Z [32minfo[39m: Book added successfully
+2024-05-28T09:34:17.369Z [32minfo[39m: Book added successfully
+2024-05-28T09:53:34.060Z [32minfo[39m: Book added successfully
+2024-05-28T11:56:32.609Z [32minfo[39m: Server is running on port 5000
+2024-05-28T11:56:32.639Z [32minfo[39m: Connected to the database
+2024-05-28T12:14:35.777Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:14:35.801Z [32minfo[39m: Connected to the database
+2024-05-28T12:19:47.300Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:19:47.322Z [32minfo[39m: Connected to the database
+2024-05-28T12:23:33.334Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:23:33.361Z [32minfo[39m: Connected to the database
+2024-05-28T12:26:23.533Z [31merror[39m: Error registering user: Unknown column 'hashedPassword' in 'field list'
+2024-05-28T12:27:45.966Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:27:45.988Z [32minfo[39m: Connected to the database
+2024-05-28T12:28:55.216Z [31merror[39m: Error registering user: Field 'password' doesn't have a default value
+2024-05-28T12:32:24.462Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:32:24.509Z [32minfo[39m: Connected to the database
+2024-05-28T12:32:31.113Z [32minfo[39m: User registered successfully
+2024-05-28T12:35:29.573Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:35:29.595Z [32minfo[39m: Connected to the database
+2024-05-28T12:40:12.375Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:40:12.399Z [32minfo[39m: Connected to the database
+2024-05-28T12:43:36.334Z [32minfo[39m: Server is running on port 5000
+2024-05-28T12:43:36.357Z [32minfo[39m: Connected to the database
+2024-05-28T13:01:58.645Z [32minfo[39m: Server is running on port 5000
+2024-05-28T13:01:58.667Z [32minfo[39m: Connected to the database
+2024-05-28T13:06:47.539Z [32minfo[39m: User registered successfully
+2024-05-28T13:14:10.741Z [32minfo[39m: Server is running on port 5000
+2024-05-28T13:14:10.767Z [32minfo[39m: Connected to the database
+2024-05-28T13:17:04.737Z [32minfo[39m: Server is running on port 5000
+2024-05-28T13:17:04.762Z [32minfo[39m: Connected to the database
+2024-05-28T13:21:28.498Z [32minfo[39m: Server is running on port 5000
+2024-05-28T13:21:28.523Z [32minfo[39m: Connected to the database
+2024-05-28T13:22:58.194Z [32minfo[39m: Server is running on port 5000
+2024-05-28T13:22:58.216Z [32minfo[39m: Connected to the database
+2024-05-28T13:23:05.331Z [32minfo[39m: User registered successfully
+2024-05-28T13:56:44.795Z [32minfo[39m: User registered successfully
+2024-05-29T05:13:17.538Z [32minfo[39m: Server is running on port 5000
+2024-05-29T05:13:17.576Z [32minfo[39m: Connected to the database
+2024-05-29T05:51:42.752Z [32minfo[39m: Book added successfully
+2024-05-29T06:04:52.252Z [31merror[39m: Error adding book: Data too long for column 'description' at row 1
+2024-05-29T06:05:33.825Z [32minfo[39m: Book added successfully
+2024-05-29T06:22:25.005Z [32minfo[39m: Server is running on port 5000
+2024-05-29T06:22:25.041Z [31merror[39m: Error connecting to the database: Unknown database 'your_database'
+2024-05-29T06:22:53.977Z [32minfo[39m: Server is running on port 5000
+2024-05-29T06:22:54.012Z [32minfo[39m: Connected to the database
+2024-05-29T06:48:29.394Z [32minfo[39m: Book added successfully
+2024-05-29T06:55:14.640Z [32minfo[39m: Server is running on port 5000
+2024-05-29T06:55:14.675Z [32minfo[39m: Connected to the database
+2024-05-29T06:57:13.808Z [32minfo[39m: User registered successfully
+2024-05-29T09:42:00.791Z [32minfo[39m: Server is running on port 5000
+2024-05-29T09:42:00.834Z [32minfo[39m: Connected to the database
+2024-05-29T10:04:32.754Z [32minfo[39m: Server is running on port 5000
+2024-05-29T10:04:32.806Z [32minfo[39m: Connected to the database
+2024-05-29T10:19:09.550Z [32minfo[39m: Server is running on port 5000
+2024-05-29T10:19:09.601Z [32minfo[39m: Connected to the database
+2024-05-29T11:33:31.895Z [32minfo[39m: Server is running on port 5000
+2024-05-29T11:33:31.919Z [32minfo[39m: Connected to the database
+2024-05-29T11:34:21.334Z [31merror[39m: Error retrieving user data: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'username FROM userinfo WHERE username = 'exampleuser'' at line 1
+2024-05-29T11:36:58.174Z [32minfo[39m: Server is running on port 5000
+2024-05-29T11:36:58.199Z [32minfo[39m: Connected to the database
+2024-05-29T11:38:45.772Z [32minfo[39m: User registered successfully
+2024-05-29T11:38:45.780Z [31merror[39m: Error registering user: Column 'username' cannot be null
+2024-05-29T11:40:05.586Z [32minfo[39m: User registered successfully
+2024-05-29T11:40:05.594Z [31merror[39m: Error registering user: Column 'username' cannot be null
+2024-05-29T11:55:53.201Z [32minfo[39m: Server is running on port 5000
+2024-05-29T11:55:53.225Z [32minfo[39m: Connected to the database
+2024-05-29T12:10:55.247Z [32minfo[39m: Server is running on port 5000
+2024-05-29T12:10:55.281Z [32minfo[39m: Connected to the database
+2024-05-29T13:18:33.711Z [32minfo[39m: Server is running on port 5000
+2024-05-29T13:18:33.747Z [32minfo[39m: Connected to the database
+2024-05-29T13:48:17.788Z [32minfo[39m: Book added successfully
+2024-05-29T14:03:55.684Z [32minfo[39m: Server is running on port 5000
+2024-05-29T14:03:55.721Z [32minfo[39m: Connected to the database
+2024-05-29T14:09:56.483Z [32minfo[39m: Server is running on port 5000
+2024-05-29T14:09:56.540Z [32minfo[39m: Connected to the database
+2024-05-29T14:19:49.880Z [32minfo[39m: Server is running on port 5000
+2024-05-29T14:19:49.919Z [32minfo[39m: Connected to the database
+2024-05-29T14:20:35.903Z [31merror[39m: Error registering user: Data truncated for column 'id' at row 1
+2024-05-29T14:21:34.967Z [32minfo[39m: User registered successfully
+2024-05-29T14:21:34.977Z [31merror[39m: Error registering user: Column 'username' cannot be null
+2024-05-29T15:32:32.560Z [32minfo[39m: Server is running on port 5000
+2024-05-29T15:32:32.589Z [32minfo[39m: Connected to the database
+2024-05-29T16:09:02.390Z [32minfo[39m: Server is running on port 5000
+2024-05-29T16:09:02.430Z [32minfo[39m: Connected to the database
+2024-05-29T17:45:59.372Z [32minfo[39m: Server is running on port 5000
+2024-05-29T17:45:59.408Z [32minfo[39m: Connected to the database
+2024-05-29T18:18:40.213Z [32minfo[39m: Server is running on port 5000
+2024-05-29T18:18:40.262Z [32minfo[39m: Connected to the database
+2024-05-29T18:27:00.592Z [32minfo[39m: Server is running on port 5000
+2024-05-29T18:27:00.636Z [32minfo[39m: Connected to the database
+2024-05-29T18:33:06.215Z [32minfo[39m: Server is running on port 5000
+2024-05-29T18:33:06.259Z [32minfo[39m: Connected to the database
+2024-05-29T18:56:30.454Z [32minfo[39m: Book added successfully
+2024-05-29T18:58:59.796Z [32minfo[39m: Book added successfully
+2024-05-29T19:14:42.123Z [32minfo[39m: Server is running on port 5000
+2024-05-29T19:14:42.164Z [32minfo[39m: Connected to the database
+2024-05-29T19:29:42.830Z [32minfo[39m: Server is running on port 5000
+2024-05-29T19:29:42.867Z [32minfo[39m: Connected to the database
+2024-05-29T19:32:29.318Z [32minfo[39m: User registered successfully
+2024-05-29T19:32:29.329Z [31merror[39m: Error registering user: Column 'username' cannot be null
+2024-05-29T19:35:14.867Z [32minfo[39m: Book added successfully
+2024-05-31T05:29:00.022Z [32minfo[39m: Server is running on port 5000
+2024-05-31T05:29:00.073Z [32minfo[39m: Connected to the database
+2024-05-31T05:30:40.596Z [32minfo[39m: Server is running on port 5000
+2024-05-31T05:30:40.641Z [32minfo[39m: Connected to the database
+2024-05-31T05:31:21.535Z [32minfo[39m: Server is running on port 5000
+2024-05-31T05:31:21.583Z [32minfo[39m: Connected to the database
+2024-05-31T05:38:47.903Z [32minfo[39m: Server is running on port 5000
+2024-05-31T05:38:47.949Z [32minfo[39m: Connected to the database
+2024-05-31T05:45:19.694Z [32minfo[39m: Server is running on port 5000
+2024-05-31T05:45:19.747Z [32minfo[39m: Connected to the database
+2024-05-31T05:58:58.067Z [32minfo[39m: Server is running on port 5000
+2024-05-31T05:58:58.121Z [32minfo[39m: Connected to the database
+2024-05-31T05:59:50.672Z [32minfo[39m: Book updated successfully
+2024-05-31T06:05:41.649Z [32minfo[39m: Book updated successfully
+2024-05-31T06:15:20.910Z [32minfo[39m: Book updated successfully
+2024-05-31T06:17:11.796Z [32minfo[39m: Book updated successfully
+2024-05-31T06:17:56.453Z [32minfo[39m: Book updated successfully
+2024-05-31T06:21:49.787Z [32minfo[39m: Book updated successfully
+2024-05-31T06:23:58.104Z [32minfo[39m: Book updated successfully
+2024-05-31T12:18:36.869Z [32minfo[39m: Book updated successfully
+2024-05-31T12:21:38.720Z [32minfo[39m: Book updated successfully
+2024-05-31T12:25:34.817Z [32minfo[39m: Book updated successfully
+2024-06-03T06:29:39.014Z [32minfo[39m: Server is running on port 5000
+2024-06-03T06:29:39.064Z [32minfo[39m: Connected to the database
+2024-06-03T12:04:58.247Z [32minfo[39m: Book added successfully
+2024-06-03T12:05:50.036Z [32minfo[39m: Server is running on port 5000
+2024-06-03T12:05:50.090Z [32minfo[39m: Connected to the database
+2024-06-03T12:07:24.004Z [32minfo[39m: Book added successfully
+2024-06-03T12:07:24.015Z [31merror[39m: Error adding chapters: Table 'userbooks.chapters' doesn't exist
+2024-06-03T12:07:44.318Z [32minfo[39m: Book added successfully
+2024-06-03T12:07:44.321Z [31merror[39m: Error adding chapters: Table 'userbooks.chapters' doesn't exist
+2024-06-03T12:12:14.438Z [32minfo[39m: Server is running on port 5000
+2024-06-03T12:12:14.476Z [32minfo[39m: Connected to the database
+2024-06-03T12:12:21.721Z [32minfo[39m: Book added successfully
+2024-06-03T12:12:21.726Z [31merror[39m: Error adding chapters: Table 'userbooks.chapters' doesn't exist
+2024-06-03T12:15:08.284Z [32minfo[39m: Server is running on port 5000
+2024-06-03T12:15:08.312Z [32minfo[39m: Connected to the database
+2024-06-03T12:15:14.046Z [32minfo[39m: Book added successfully
+2024-06-03T12:15:14.051Z [31merror[39m: Error adding chapters: Table 'userbooks.chapters' doesn't exist
+2024-06-03T13:03:53.287Z [32minfo[39m: Server is running on port 5000
+2024-06-03T13:03:53.312Z [32minfo[39m: Connected to the database
+2024-06-03T13:04:01.528Z [32minfo[39m: Book added successfully
+2024-06-03T13:18:36.533Z [32minfo[39m: Server is running on port 5000
+2024-06-03T13:18:36.566Z [32minfo[39m: Connected to the database
+2024-06-03T13:55:58.127Z [32minfo[39m: Book added successfully
+2024-06-03T13:57:47.177Z [32minfo[39m: Server is running on port 5000
+2024-06-03T13:57:47.224Z [32minfo[39m: Connected to the database
+2024-06-03T16:44:41.286Z [32minfo[39m: Book added successfully
+2024-06-03T16:47:54.279Z [32minfo[39m: Server is running on port 5000
+2024-06-03T16:47:54.314Z [32minfo[39m: Connected to the database
+2024-06-03T16:48:17.859Z [32minfo[39m: Server is running on port 5000
+2024-06-03T16:48:17.899Z [32minfo[39m: Connected to the database
+2024-06-03T16:52:00.308Z [32minfo[39m: Server is running on port 5000
+2024-06-03T16:52:00.344Z [32minfo[39m: Connected to the database
+2024-06-03T17:02:20.438Z [32minfo[39m: Server is running on port 5000
+2024-06-03T17:02:20.474Z [32minfo[39m: Connected to the database
+2024-06-03T17:05:21.397Z [32minfo[39m: Server is running on port 5000
+2024-06-03T17:05:21.434Z [32minfo[39m: Connected to the database
+2024-06-03T17:20:16.006Z [32minfo[39m: Server is running on port 5000
+2024-06-03T17:20:16.043Z [32minfo[39m: Connected to the database
+2024-06-03T17:28:13.386Z [32minfo[39m: Book updated successfully
+2024-06-03T17:41:27.519Z [32minfo[39m: Book updated successfully
+2024-06-03T17:42:41.872Z [32minfo[39m: Book updated successfully
+2024-06-03T17:51:08.547Z [32minfo[39m: Book updated successfully
+2024-06-04T05:36:04.513Z [32minfo[39m: Book updated successfully
+2024-06-04T05:44:10.685Z [32minfo[39m: Book updated successfully
+2024-06-04T05:44:42.326Z [31merror[39m: Error updating book: Data too long for column 'description' at row 1
+2024-06-04T05:45:07.598Z [31merror[39m: Error updating book: Data too long for column 'description' at row 1
+2024-06-04T05:46:47.736Z [32minfo[39m: Server is running on port 5000
+2024-06-04T05:46:47.795Z [32minfo[39m: Connected to the database
+2024-06-04T05:46:52.759Z [31merror[39m: Error updating book: Data too long for column 'description' at row 1
+2024-06-04T09:11:27.196Z [32minfo[39m: Book updated successfully
+2024-06-04T09:11:47.020Z [32minfo[39m: Book updated successfully
+2024-06-05T05:30:16.843Z [32minfo[39m: User registered successfully
+2024-06-05T05:30:16.850Z [31merror[39m: Error registering user: Column 'username' cannot be null
+2024-06-06T04:18:49.199Z [32minfo[39m: Server is running on port 5000
+2024-06-06T04:18:49.246Z [32minfo[39m: Connected to the database
+2024-06-06T04:38:43.003Z [32minfo[39m: Book added successfully
+2024-06-06T04:41:12.100Z [32minfo[39m: Book updated successfully
+2024-06-06T05:29:16.628Z [32minfo[39m: Book added successfully
+2024-06-06T05:36:04.206Z [32minfo[39m: Book updated successfully
+2024-06-06T05:39:12.056Z [32minfo[39m: Book added successfully
+2024-06-07T06:54:13.023Z [31merror[39m: Error fetching books: Can't add new command when connection is in closed state
