@@ -40,7 +40,7 @@ function BookList({ userData, loggedIn, guestMode, handleGuestMode, setLoggedIn,
                     // Guest mode: Fetch both public books from the database and books from the Google Books API
                     const responseFromDB = await axios.get('http://localhost:5000/api/books');
                     const booksFromDB = responseFromDB.data;
-    
+
                     const responseFromGoogle = await axios.get("https://www.googleapis.com/books/v1/volumes?q=programming&maxResults=40");
                     const bookItems = responseFromGoogle.data.items;
                     const formattedBooks = bookItems.map(item => ({
@@ -50,7 +50,7 @@ function BookList({ userData, loggedIn, guestMode, handleGuestMode, setLoggedIn,
                         description: item.volumeInfo.description || 'No description available',
                         visibility: 'public'
                     }));
-    
+
                     setBooks([...booksFromDB, ...formattedBooks]);
                 } else if (loggedInUser && loggedInUser.userId) {
                     // Logged-in mode: Fetch books from the database based on the user's ID
@@ -67,10 +67,10 @@ function BookList({ userData, loggedIn, guestMode, handleGuestMode, setLoggedIn,
                 setLoading(false);
             }
         };
-    
+
         fetchBooks();
     }, [loggedInUser, loggedIn, guestMode]);
-    
+
 
     const handleSearchQuery = (query) => {
         setSearchQuery(query);
@@ -98,7 +98,7 @@ function BookList({ userData, loggedIn, guestMode, handleGuestMode, setLoggedIn,
             setShowAddBookModal(false);
             // Refetch books from the database with sorting to ensure the newest books appear first
             const responseFromDB = await axios.get('http://localhost:5000/api/books', {
-                params: { sortBy: 'createdAt', order: 'desc' } // Adjust these parameters based on your backend API
+                params: { sortBy: 'createdAt', order: 'desc' }
             });
             const booksFromDB = responseFromDB.data;
             setBooks(booksFromDB);
@@ -265,8 +265,8 @@ function BookList({ userData, loggedIn, guestMode, handleGuestMode, setLoggedIn,
                         ))}
                     </Modal.Body>
                     <Modal.Footer>
-                        <Button variant="secondary" onClick={() => setShowAddChaptersModal(false)}>Cancel</Button>
-                        <Button variant="primary" onClick={addChapter}>Confirm</Button>
+                        <Button variant="secondary" className="button-style" onClick={() => setShowAddChaptersModal(false)}>Cancel</Button>
+                        <Button variant="primary" className="button-style" onClick={addChapter}>Confirm</Button>
                     </Modal.Footer>
                 </Modal>
                 {!loading && (
